@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165007872382",
+    "firebase_url": "https://image2text-1c55b.firebaseio.com",
+    "project_id": "image2text-1c55b",
+    "storage_bucket": "image2text-1c55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165007872382:android:65b5ee950d29b9f771232f",
+        "android_client_info": {
+          "package_name": "com.example.image2textsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165007872382-lh4676649v16q1umdf1p66mcukkjrn7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt3R-wwgQ5dhWf1YEivUSL4Z4aWqy7nw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165007872382-lh4676649v16q1umdf1p66mcukkjrn7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
